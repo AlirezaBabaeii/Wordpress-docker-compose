@@ -5,10 +5,10 @@ using the following commands:
 
 ``` bash
 # Download a wordpress docker-compose example
-git clone https://github.com/kassambara/wordpress-docker-compose
+git https://github.com/AlirezaBabaeii/Wordpress-docker-compose.git
 cd wordpress-docker-compose
 # Build and start installation
-docker-compose up -d --build
+docker-compose up -d
 ```
 
 Visit your site at <http://localhost> and your database via phpMyAdmin
